@@ -102,7 +102,7 @@ if (splitResult.isSuccess) {
 3. 运行时需授予 APP 麦克风权限、存储权限（用于音频文件读写），Android 13+ 需额外申请媒体音频权限。
 
 ## 联系方式
-- 项目维护：[星宇stdio]
+- 项目维护：[星宇studio]
 - 技术咨询：[3270779190@qq.com]
 - 问题反馈：欢迎通过 GitHub Issues 提交 bug 或需求建议
 
